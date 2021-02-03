@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 6635-F126
-
- Directory of C:\Users\Sedra\Desktop\MyProject
-
-02/03/2021  08:13 PM    <DIR>          .
-02/03/2021  08:13 PM    <DIR>          ..
-02/03/2021  08:13 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  66,253,901,824 bytes free
+change 1
